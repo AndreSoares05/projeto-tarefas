@@ -155,8 +155,8 @@ Adicione aqui imagens do sistema funcionando.
 
 Exemplo:
 
-![Tela do Sistema](<img width="648" height="277" alt="Screenshot 2026-05-16 222112" src="https://github.com/user-attachments/assets/53ac7651-5d7a-42af-8489-7ee8f546554e" />
-)
+![<img width="648" height="277" alt="Screenshot 2026-05-16 222112" src="https://github.com/user-attachments/assets/8db21e98-f89c-4c3c-95b7-1c2b2fc9574d" />
+]
 
 
 ---
